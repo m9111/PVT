@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+PyPDF2
+langchain
+langchain-community
+python-dotenv
+pyttsx3
+SpeechRecognition
+faiss-cpu
+tiktoken
+openai
+sentence-transformers 
+transformers 
+python-multipart
+opencv-python
+pillow
